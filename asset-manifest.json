@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/task_two_calendar/static/css/main.c9cc8b0b.css",
-    "main.js": "/task_two_calendar/static/js/main.2858d742.js",
-    "static/js/453.670e15c7.chunk.js": "/task_two_calendar/static/js/453.670e15c7.chunk.js",
-    "index.html": "/task_two_calendar/index.html",
-    "main.c9cc8b0b.css.map": "/task_two_calendar/static/css/main.c9cc8b0b.css.map",
-    "main.2858d742.js.map": "/task_two_calendar/static/js/main.2858d742.js.map",
-    "453.670e15c7.chunk.js.map": "/task_two_calendar/static/js/453.670e15c7.chunk.js.map"
+    "main.css": "/Task_two_Calendar/frontend/static/css/main.c9cc8b0b.css",
+    "main.js": "/Task_two_Calendar/frontend/static/js/main.7f27eaea.js",
+    "static/js/453.670e15c7.chunk.js": "/Task_two_Calendar/frontend/static/js/453.670e15c7.chunk.js",
+    "index.html": "/Task_two_Calendar/frontend/index.html",
+    "main.c9cc8b0b.css.map": "/Task_two_Calendar/frontend/static/css/main.c9cc8b0b.css.map",
+    "main.7f27eaea.js.map": "/Task_two_Calendar/frontend/static/js/main.7f27eaea.js.map",
+    "453.670e15c7.chunk.js.map": "/Task_two_Calendar/frontend/static/js/453.670e15c7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c9cc8b0b.css",
-    "static/js/main.2858d742.js"
+    "static/js/main.7f27eaea.js"
   ]
 }

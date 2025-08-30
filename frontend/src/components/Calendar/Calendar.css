@@ -1,0 +1,11 @@
+.grid-cols-2 {
+   grid-template-columns: 80px repeat(1, minmax(0, 1fr));
+}
+
+.grid-cols-4 {
+   grid-template-columns: 80px repeat(3, minmax(0, 1fr));
+}
+
+.grid-cols-8 {
+   grid-template-columns: 80px repeat(7, minmax(0, 1fr));
+}

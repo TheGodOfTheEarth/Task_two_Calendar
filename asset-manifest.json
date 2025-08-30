@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Task_two_Calendar/static/css/main.c9cc8b0b.css",
+    "main.js": "/Task_two_Calendar/static/js/main.1a2c82a4.js",
+    "static/js/453.670e15c7.chunk.js": "/Task_two_Calendar/static/js/453.670e15c7.chunk.js",
+    "index.html": "/Task_two_Calendar/index.html",
+    "main.c9cc8b0b.css.map": "/Task_two_Calendar/static/css/main.c9cc8b0b.css.map",
+    "main.1a2c82a4.js.map": "/Task_two_Calendar/static/js/main.1a2c82a4.js.map",
+    "453.670e15c7.chunk.js.map": "/Task_two_Calendar/static/js/453.670e15c7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c9cc8b0b.css",
+    "static/js/main.1a2c82a4.js"
+  ]
+}
